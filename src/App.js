@@ -27,7 +27,7 @@ const App=()=> {
           />
           <Routes>
             <Route
-              path="/general"
+              path="/"
               element={
                 <News
                   apiKey={apiKey}
